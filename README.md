@@ -29,6 +29,9 @@ Size Summary
 
 ![Sizesummary](https://user-images.githubusercontent.com/58860105/133003180-f4f7339f-ea0b-4b96-814f-9956d50d1a53.PNG)
 
+Type Summary
+
+![Typesummary](https://user-images.githubusercontent.com/58860105/133003228-a2775c7f-c4f4-467a-877e-e1290aea8900.PNG)
 
 
 
@@ -38,7 +41,9 @@ Size Summary
 
 
 
+Grade Level
 
+![Gradelevel](https://user-images.githubusercontent.com/58860105/133003266-4d1279be-1c37-4498-9cb3-60a65cf07a57.PNG)
 
 
 Top Schools
