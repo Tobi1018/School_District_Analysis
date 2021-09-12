@@ -59,7 +59,17 @@
 
 ## Result
 
-How is the district summary affected
+How is the district summary affected:
+
+   * The average math Score went from 79 to 78.9 
+
+   * The Average Reading Score remains 81.9
+   * Percentage of Math decrease from 75 - 74.8%
+   * Percentage of Reading also 86% - 85%
+   * The overall Passing went from 65 - 64.9%
+   * 
+
+
 * Replacing the ninth grade
 
 ## Summary
