@@ -25,6 +25,9 @@ Schools Summary
 
 
 
+Size Summary
+
+![Sizesummary](https://user-images.githubusercontent.com/58860105/133003180-f4f7339f-ea0b-4b96-814f-9956d50d1a53.PNG)
 
 
 
