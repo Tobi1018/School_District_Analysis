@@ -42,7 +42,7 @@ Type Summary
 
 
 
-*Grade Level
+* Grade Level
 
 ![Gradelevel](https://user-images.githubusercontent.com/58860105/133003266-4d1279be-1c37-4498-9cb3-60a65cf07a57.PNG)
 
