@@ -59,7 +59,7 @@
 
 ## Result
 
-
+How is the district summary affected
 * Replacing the ninth grade
 
 ## Summary
