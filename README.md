@@ -64,7 +64,7 @@ How is the district summary affected;
    * The overall Passing went from 65 - 64.9%
 
 How is the school summary affected;
-   *
+   * 
    *
    
 Replacing the ninth-grade scores affect the following;
@@ -78,4 +78,4 @@ Replacing the ninth-grade scores affect the following;
 
 
 ## Summary
-   The Math and Reading scores for Thomas High School have been replaced with NaN. The rest of the data should remain the same. After replacing the math and the reading scores. The step was done for the as same from the module. Then, gather information used to illustrate the changes that happen during the analysis.
+   The Math and Reading scores for Thomas High School was replaced with NaN. The rest of the data should remain the same. After replacing the math and the reading scores. The step was done for the as same from the module. Then, gather information used to illustrate the changes that happen during the analysis.
