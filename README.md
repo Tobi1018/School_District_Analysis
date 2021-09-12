@@ -23,6 +23,9 @@ Schools Summary
 ![Schoolspendingsummary](https://user-images.githubusercontent.com/58860105/133003101-c5fc9517-4efd-45b8-ba97-2196480becba.PNG)
 
 
+Spending Summary
+
+![spendingsummary](https://user-images.githubusercontent.com/58860105/133003324-86fbd7f8-9a3f-4736-a41d-b4c1f44b131c.PNG)
 
 
 Size Summary
