@@ -18,6 +18,26 @@ Thomas High School
 ![ThomasHigh](https://user-images.githubusercontent.com/58860105/133002767-7ef3cb6d-587a-4e83-92e0-ea653fc66df0.PNG)
 
 
+Schools Spending Summary
+
+![Schoolspendingsummary](https://user-images.githubusercontent.com/58860105/133003101-c5fc9517-4efd-45b8-ba97-2196480becba.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Top Schools
 
 ![Top](https://user-images.githubusercontent.com/58860105/133003016-faa6338d-a682-471d-b693-88d4e3f04402.PNG)
