@@ -2,7 +2,7 @@
 
 ## Project Overview 
 
-The project aims is to analyze and gather data information about fifteen different schools.  Using Pandas, I gather the grades, school sizes, district, and charter; the average percentage of students who passed math and reading, and the average overall percentage, school types. Also, I created a new DataFrame with the averages and percentages, based on the spending bins, to show how school spending affects score averages and passing rates. In Thomas High School's analysis, academic dishonesty was discovered in the reading and math grades of Ninth Grader.
+     The project aims is to analyze and gather data information about fifteen different schools.  Using Pandas, I gather the grades, school sizes, district, and charter; the average percentage of students who passed math and reading, and the average overall percentage, school types. Also, I created a new DataFrame with the averages and percentages, based on the spending bins, to show how school spending affects score averages and passing rates. In Thomas High School's analysis, academic dishonesty was discovered in the reading and math grades of Ninth Grader.
 
 
 
